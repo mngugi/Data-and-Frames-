@@ -1,11 +1,11 @@
 Fruit,Sweetness,Sourness,Fruit Type
-Lemon,1,,
-Grapfruit,2,,
-Orange,3,,
-Raspberry,2,,
-Cherry,6,,
-Banana,9,,
-Grapes,8,,
-Watermelon,9,,
-Avacado,1,,
-Strawberry,5,,
+Lemon,1,9,Sour
+Grapfruit,2,8,Sour
+Orange,3,7,Sour
+Raspberry,2,8,Sour
+Cherry,6,4,Sweet
+Banana,9,1,Sweet
+Grapes,8,2,Sweet
+Watermelon,9,1,Sweet
+Avacado,1,1,none
+Strawberry,5,5,Sour
